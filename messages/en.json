@@ -1,0 +1,407 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "whyUs": "Why Choose Us",
+    "employees": "Team",
+    "contact": "Contact",
+    "requestInspection": "Request an Inspection",
+    "clinicPortal": "Clinic Portal",
+    "calculators": "Calculators"
+  },
+  "footer": {
+    "tagline": "Your trusted partner in radiation safety and quality control",
+    "phoneLabel": "Phone",
+    "phone": "+995 32 2 03 37 77",
+    "emailLabel": "Email",
+    "email": "info@radi.ge",
+    "email2": "ltd.radi@gmail.com",
+    "addressLabel": "Address",
+    "address": "71 Vazha-Pshavela Ave, Tbilisi, Georgia",
+    "rights": "All rights reserved.",
+    "clinicCta": "For clinics — sign in to the portal"
+  },
+  "home": {
+    "heroEyebrow": "Medical imaging quality control",
+    "heroTitle": "The precision your patients deserve",
+    "heroSubtitle": "We test, calibrate, and support accreditation for radiology equipment across clinics in Georgia — accurate, on time, and fully transparent.",
+    "ctaPrimary": "Request an Inspection",
+    "ctaSecondary": "View Services",
+    "trustedEyebrow": "Trusted by",
+    "trustedTitle": "Clinics and diagnostic centers across Georgia",
+    "clients": [
+      "Tbilisi Medical Center",
+      "Batumi Diagnostic Clinic",
+      "Caucasus Family Medicine",
+      "Kutaisi Radiology Institute",
+      "Samtskhe Regional Hospital",
+      "Imereti Health Center"
+    ],
+    "highlightsTitle": "Why clinics choose us",
+    "highlights": [
+      {
+        "title": "Certified inspectors",
+        "description": "Our team completes regular international training and calibration."
+      },
+      {
+        "title": "Fast reporting",
+        "description": "Detailed reports delivered within days of every inspection."
+      },
+      {
+        "title": "Full transparency",
+        "description": "Every measurement and result is logged and available on request."
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Radiation protection & compliance services",
+    "subtitle": "Radiation Protection Services is accredited to provide compliance testing of equipment and premises in accordance with state legislative requirements.",
+    "clickToExpand": "Click an item to see how we test it.",
+    "compliance": {
+      "title": "Compliance Testing",
+      "equipmentTitle": "Equipment",
+      "equipmentIntro": "The equipment we test includes:",
+      "equipment": [
+        {
+          "label": "Computed Tomography (CT)",
+          "description": "We test CT scanner performance including CTDI dose output, slice thickness accuracy, image uniformity, noise, and spatial resolution against national dose reference levels."
+        },
+        {
+          "label": "Mammography",
+          "description": "We test mammography units for average glandular dose (AGD), image quality (contrast and resolution), compression force accuracy, and automatic exposure control performance."
+        },
+        {
+          "label": "General X-Ray",
+          "description": "We test general radiography units for output consistency, kVp and timer accuracy, beam alignment, collimation accuracy, and beam filtration (HVL)."
+        },
+        {
+          "label": "Fluoroscopy",
+          "description": "We test fluoroscopy systems for dose rate, image quality, automatic brightness control, and beam collimation across all operating modes."
+        },
+        {
+          "label": "OPG",
+          "description": "We test orthopantomography (panoramic dental) units for exposure output, image quality, and correct beam alignment and collimation."
+        },
+        {
+          "label": "Dental X-Ray",
+          "description": "We test intraoral dental X-ray units for output consistency, kVp and timer accuracy, and beam collimation."
+        },
+        {
+          "label": "Veterinary X-Ray",
+          "description": "We test veterinary X-ray equipment to the same output, timer, and collimation standards as human-use equipment, adapted for veterinary workflows."
+        },
+        {
+          "label": "Cabinet X-Ray",
+          "description": "We test cabinet (self-shielded) X-ray units for leakage radiation at the cabinet surface, interlock function, and warning light and label compliance."
+        },
+        {
+          "label": "Chemical Analysis",
+          "description": "We test X-ray fluorescence (XRF) and similar chemical-analysis X-ray devices for leakage radiation and safe interlock operation."
+        }
+      ],
+      "premisesTitle": "Premises",
+      "premisesIntro": "The premises we test includes:",
+      "premises": [
+        {
+          "label": "Computed Tomography (CT)",
+          "description": "We measure radiation levels at the room boundary during typical CT workload to confirm shielding meets occupational and public dose limits."
+        },
+        {
+          "label": "Mammography",
+          "description": "We assess mammography room shielding and layout against the lower-energy, higher-workload profile typical of breast imaging."
+        },
+        {
+          "label": "General X-Ray",
+          "description": "We measure scatter and leakage radiation at adjacent walls, floors, and ceilings for general radiography rooms."
+        },
+        {
+          "label": "Fluoroscopy",
+          "description": "We assess fluoroscopy room shielding, accounting for the higher workloads and longer beam-on times typical of fluoroscopic procedures."
+        },
+        {
+          "label": "Dental",
+          "description": "We assess shielding for dental X-ray surgeries, including adjacent waiting areas and neighbouring rooms."
+        },
+        {
+          "label": "Operating Theatres",
+          "description": "We assess shielding for theatres using mobile image intensifiers or C-arms during surgical procedures."
+        },
+        {
+          "label": "Nuclear Medicine & PET",
+          "description": "We assess shielding and controlled-area boundaries for nuclear medicine and PET facilities handling radioactive materials."
+        },
+        {
+          "label": "Laser",
+          "description": "We assess laser treatment room controls, signage, and eyewear requirements against applicable laser safety standards."
+        }
+      ]
+    },
+    "shielding": {
+      "title": "Shielding Assessments",
+      "description": "We can provide shielding assessments and technical advice on new facilities as well as premises undergoing a change of use or refurbishment. We can offer you competitive prices on any assessment from a single room to a large radiology practice.",
+      "itemsIntro": "We provide shielding assessments for:",
+      "items": [
+        {
+          "label": "Computed Tomography",
+          "description": "Shielding design for new or refurbished CT suites, based on planned workload and room layout."
+        },
+        {
+          "label": "X-Ray",
+          "description": "Shielding design for general radiography rooms, sized to planned patient throughput and equipment output."
+        },
+        {
+          "label": "Fluoroscopy",
+          "description": "Shielding design for fluoroscopy suites, accounting for extended beam-on time and higher workloads."
+        },
+        {
+          "label": "Dental",
+          "description": "Shielding design for dental surgeries, including intraoral and panoramic (OPG) units."
+        },
+        {
+          "label": "Cath Labs & Operating Theatres",
+          "description": "Shielding design for catheterisation labs and theatres using mobile or fixed fluoroscopy equipment."
+        },
+        {
+          "label": "Veterinary",
+          "description": "Shielding design for veterinary radiography and CT rooms."
+        }
+      ],
+      "closing": "We will work with your builder or architect to help you achieve a shielding outcome that provides safety for your staff and clients."
+    },
+    "consultancy": {
+      "title": "Radiation & Consultancy Services",
+      "description": "We can provide radiation safety advice to practices on a range of areas including:",
+      "items": [
+        {
+          "label": "Radiation safety legislative requirements",
+          "description": "We help you understand and meet the radiation safety obligations that apply to your facility under state legislation."
+        },
+        {
+          "label": "Radiation dosimetry",
+          "description": "We advise on staff dosimetry programs, including badge selection, wear locations, and result monitoring."
+        },
+        {
+          "label": "Dose optimisation",
+          "description": "We review your imaging protocols and technique factors to help reduce patient dose without compromising image quality."
+        },
+        {
+          "label": "Quality assurance",
+          "description": "We help you set up and maintain a quality assurance program covering routine equipment checks and record-keeping."
+        },
+        {
+          "label": "Radiation incidents",
+          "description": "We advise on investigating, reporting, and responding to radiation incidents or overexposures."
+        }
+      ]
+    },
+    "safetyPlans": {
+      "title": "Radiation Safety Plans",
+      "description": "We can help you develop, review and implement your Radiation Safety Protection Plans."
+    },
+    "otherServices": {
+      "title": "Other Services",
+      "description": "We can also support your clinic(s) with additional services beyond those listed above. To arrange this, please call us at:",
+      "phone": "+995 32 2 03 37 77"
+    }
+  },
+  "whyUs": {
+    "eyebrow": "Why choose us",
+    "title": "21+ years of experience, one standard",
+    "subtitle": "Our accreditations and track record make us a trusted partner for clinics across Georgia.",
+    "accreditationsTitle": "What sets us apart",
+    "accreditations": [
+      "The first company of its kind in Georgia",
+      "Trusted by more than 70% of clinics across Georgia",
+      "Industry leader in technology and team expertise",
+      "Highly regarded across the medical sector"
+    ],
+    "statsTitle": "By the numbers",
+    "stats": [
+      { "value": "21+", "label": "years of experience" },
+      { "value": "70%+", "label": "of clinics we serve in Georgia" },
+      { "value": "ASAP", "label": "depends on the machine" }
+    ],
+    "clientsTitle": "Our clients",
+    "clients": [
+      "Tbilisi Medical Center",
+      "Batumi Diagnostic Clinic",
+      "Caucasus Family Medicine",
+      "Kutaisi Radiology Institute",
+      "Samtskhe Regional Hospital",
+      "Imereti Health Center"
+    ]
+  },
+  "employees": {
+    "eyebrow": "Team",
+    "title": "The people who set the standard",
+    "subtitle": "Certified medical physicists and inspectors with experience across hundreds of sites.",
+    "team": [
+      {
+        "name": "Davit Tqemaladze",
+        "role": "Founder",
+        "credentials": "28 years of experience in nuclear and radiation safety"
+      },
+      {
+        "name": "Irakli Vashakidze",
+        "role": "Chief Biomedical Equipment Engineer-Expert",
+        "credentials": ""
+      },
+      {
+        "name": "Eka Tqemaladze",
+        "role": "Corporate Manager",
+        "credentials": ""
+      },
+      {
+        "name": "Sopo Gigiberia",
+        "role": "Head of Finance Department",
+        "credentials": ""
+      },
+      {
+        "name": "Inga Elizbarashvili",
+        "role": "Office Manager",
+        "credentials": ""
+      },
+      {
+        "name": "Giorgi Karkashadze",
+        "role": "",
+        "credentials": ""
+      },
+      {
+        "name": "Davit Jangirashvili",
+        "role": "",
+        "credentials": ""
+      },
+      {
+        "name": "Archil Okroshidze",
+        "role": "",
+        "credentials": ""
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Get in touch",
+    "subtitle": "Have a question about an inspection, a report, or a partnership? Reach out.",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formMessage": "Message",
+    "formSubmit": "Send",
+    "detailsTitle": "Contact details",
+    "phoneLabel": "Phone",
+    "phone": "+995 32 2 03 37 77",
+    "emailLabel": "Email",
+    "email": "info@radi.ge",
+    "email2": "ltd.radi@gmail.com",
+    "addressLabel": "Address",
+    "address": "71 Vazha-Pshavela Ave, Tbilisi, Georgia",
+    "mapLabel": "Location on map"
+  },
+  "requestInspection": {
+    "title": "Request an Inspection",
+    "subtitle": "Inspections are arranged only after initial contact. Please call us at:",
+    "phone": "+995 32 2 03 37 77"
+  },
+  "calculators": {
+    "eyebrow": "Free Tools",
+    "title": "Radiation Dose Calculators",
+    "subtitle": "Quick reference converters and dose estimators for radiography and CT — for clinical and educational use.",
+    "disclaimer": "These calculators provide estimates for reference and educational purposes only. They are not a substitute for professional dosimetry or clinical judgment. Coefficients are sourced from published data (HPA-CRCE-028, AAPM Report No. 96, CDC/NCRP, FAA).",
+    "common": {
+      "value": "Value",
+      "from": "From",
+      "to": "To",
+      "result": "Result",
+      "radiographType": "Radiograph type",
+      "fovCategory": "Field of view (FOV)",
+      "patientAge": "Patient age",
+      "bodyRegion": "Body region",
+      "flightDuration": "Flight duration (hours)",
+      "numberOfCigarettes": "Number of cigarettes",
+      "packsPerDay": "Packs per day",
+      "perExposure": "Per exposure",
+      "perYear": "Per year (1 pack/day)",
+      "effectiveDose": "Effective dose"
+    },
+    "items": {
+      "dapConverter": {
+        "name": "DAP Unit Converter",
+        "description": "Convert dose-area product between Gy·cm² and related units."
+      },
+      "dapToDose": {
+        "name": "DAP to Effective Dose (Radiography)",
+        "description": "Estimate effective dose (mSv) from dose-area product for a given radiograph type."
+      },
+      "cbctDose": {
+        "name": "CBCT Dose Calculator",
+        "description": "Estimate effective dose (µSv) from a CBCT dose-area product, based on field-of-view size."
+      },
+      "dlpConverter": {
+        "name": "DLP Unit Converter",
+        "description": "Convert dose-length product between Gy·cm and related units."
+      },
+      "dlpToDose": {
+        "name": "DLP to Effective Dose (CT)",
+        "description": "Estimate effective dose (mSv) from a CT dose-length product, by patient age and body region."
+      },
+      "doseRate": {
+        "name": "Dose Rate Converter",
+        "description": "Convert between dose rate units (µGy/s, mGy/h, etc.)."
+      },
+      "flight": {
+        "name": "Flight Radiation Calculator",
+        "description": "Estimate cosmic radiation exposure from flight duration."
+      },
+      "cigarette": {
+        "name": "Cigarette Radiation Dose Calculator",
+        "description": "Estimate radiation dose from cigarette smoking (polonium-210 / lead-210)."
+      }
+    },
+    "radiographTypes": {
+      "chestPA": "Chest (PA)",
+      "chestLat": "Chest (Lateral)",
+      "cervicalSpineAP": "Cervical Spine (AP)",
+      "cervicalSpineLat": "Cervical Spine (Lateral)",
+      "headAP": "Head (AP)",
+      "headPA": "Head (PA)",
+      "headLat": "Head (Lateral)",
+      "shoulderAP": "Shoulder (AP)",
+      "shoulderAxial": "Shoulder (Axial)",
+      "thoracicSpineAP": "Thoracic Spine (AP)",
+      "thoracicSpineLat": "Thoracic Spine (Lateral)",
+      "lumbarSpineAP": "Lumbar Spine (AP)",
+      "lumbarSpineLat": "Lumbar Spine (Lateral)",
+      "lumbosacralJointLat": "Lumbo-sacral Joint (Lateral)",
+      "abdomenAP": "Abdomen (AP)",
+      "pelvisAP": "Pelvis (AP)",
+      "singleHipAP": "Single Hip (AP)",
+      "bothHipsAP": "Both Hips (AP)",
+      "femurAP": "Femur (AP)",
+      "femurLat": "Femur (Lateral)",
+      "kneeAP": "Knee (AP)",
+      "kneeLat": "Knee (Lateral)",
+      "footDorsiPlantar": "Foot (Dorsi-plantar)",
+      "footOblique": "Foot (Oblique)"
+    },
+    "fovCategories": {
+      "small": "Small FOV (< 100 cm² — e.g. 4×4 to 8×8 cm)",
+      "medium": "Medium FOV (100–225 cm² — e.g. 10×10 to 13×10 cm)",
+      "large": "Large FOV (> 225 cm² — e.g. 15×15 cm to craniofacial)"
+    },
+    "ageGroups": {
+      "age0": "0 years (newborn)",
+      "age1": "1 year",
+      "age5": "5 years",
+      "age10": "10 years",
+      "ageAdult": "Adult"
+    },
+    "bodyRegions": {
+      "headNeck": "Head and Neck",
+      "head": "Head",
+      "neck": "Neck",
+      "chest": "Chest",
+      "abdomenPelvis": "Abdomen and Pelvis",
+      "trunk": "Trunk"
+    }
+  }
+}

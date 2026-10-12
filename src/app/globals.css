@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --background: #f6f7f5;
+  --foreground: #16211e;
+  --surface: #ffffff;
+  --surface-muted: #eef1ef;
+  --text-secondary: #55635f;
+  --border: #e2e6e3;
+  --border-strong: #cbd3ce;
+  --accent: #12a18b;
+  --accent-dark: #0a6e5d;
+  --accent-wash: #e4f4f0;
+  --danger: #b3413a;
+  --danger-wash: #fbeceb;
+  --info: #3e7fc1;
+  --info-dark: #2c5f94;
+  --info-wash: #e8f1fb;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-secondary: var(--text-secondary);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-accent: var(--accent);
+  --color-accent-dark: var(--accent-dark);
+  --color-accent-wash: var(--accent-wash);
+  --color-danger: var(--danger);
+  --color-danger-wash: var(--danger-wash);
+  --color-info: var(--info);
+  --color-info-dark: var(--info-dark);
+  --color-info-wash: var(--info-wash);
+  --font-sans: var(--font-radi-georgian), var(--font-radi-cyrillic);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0f1513;
+    --foreground: #edf2ef;
+    --surface: #171e1c;
+    --surface-muted: #1d2523;
+    --text-secondary: #9fada7;
+    --border: #2a322f;
+    --border-strong: #3a423e;
+    --accent: #2fc7ac;
+    --accent-dark: #1c9781;
+    --accent-wash: #14332c;
+    --danger: #e2726a;
+    --danger-wash: #3a1f1d;
+    --info: #6fa8e0;
+    --info-dark: #4a87c4;
+    --info-wash: #1b2c3d;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-radi-georgian), var(--font-radi-cyrillic),
+    ui-sans-serif, system-ui, sans-serif;
+}
+
+@keyframes carousel-scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-carousel {
+  animation: carousel-scroll 30s linear infinite;
+}
