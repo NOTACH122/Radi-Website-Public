@@ -20,6 +20,12 @@ Website is Built with **Next.js**, **TypeScript**, **Tailwind CSS v4** and **nex
 
 - **Accessibility pass**
 
+## Screenshots:
+![Home](docs/home.png)
+![Calculators](docs/calculators.png)
+![Mobile](docs/mobile.png)
+![Dark Mode](docs/dark.png)
+
 ## How To start:
 
 ```bash
